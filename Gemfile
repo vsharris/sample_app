@@ -7,6 +7,7 @@ gem 'rails', '3.0.5'
 
 gem 'sqlite3', '1.3.3'
 gem 'haml'
+### gem 'rb-inotify'
 
 group :development do
   gem 'rspec-rails', '2.5.0'
